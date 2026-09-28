@@ -1,0 +1,8 @@
+{
+  "name": "Wild Collective Mysuru",
+  "description": "Custom T-shirt printing, branded apparel, corporate gifts, golf T-shirts, and promotional merchandise in Mysuru, Karnataka by RIVER TERN CORPORATION.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
